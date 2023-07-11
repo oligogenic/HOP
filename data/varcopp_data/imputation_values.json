@@ -1,0 +1,11 @@
+{"imputation_values": {
+  "ISPP_AR": 0.0505,
+  "ISPP_AD": 0.0205,
+  "ISPP_XL": 0.4342,
+  "HIPRED": 0.515,
+  "DN_DS": 0.2935,
+  "BIOL_DIST": 11.08,
+  "BP_SIM": 0.12825,
+  "KG_DIST": 1.0
+    }
+  }
